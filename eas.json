@@ -12,6 +12,7 @@
       "distribution": "internal"
     },
     "production": {
+      "node": "20.15.1",
       "autoIncrement": true
     }
   },
